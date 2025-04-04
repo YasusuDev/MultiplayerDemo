@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\project\\multiplayer\\intermediate\\build\\win64\\unrealeditor\\inc\\multiplayer\\uht\\mtinteractablelistenerbase.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\project\\multiplayer\\intermediate\\build\\win64\\x64\\multiplayereditor\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "d:\\project\\multiplayer\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\multiplayer\\definitions.multiplayer.h",
+            "d:\\project\\multiplayer\\source\\multiplayer\\public\\actors\\mtinteractablelistenerbase.h",
+            "d:\\project\\multiplayer\\intermediate\\build\\win64\\unrealeditor\\inc\\multiplayer\\uht\\mtinteractablelistenerbase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"D:\\Project\\Multiplayer\\Source\\Multiplayer\\Multiplayer.Build.cs",
+		"D:\\Project\\Multiplayer\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\AdvancedSessions.Build.cs",
+		"D:\\Project\\Multiplayer\\Plugins\\AdvancedSteamSessions\\Source\\AdvancedSteamSessions\\AdvancedSteamSessions.Build.cs",
+		"D:\\Project\\Multiplayer\\Source\\Multiplayer.Target.cs",
+		"D:\\Project\\Multiplayer\\Source\\MultiplayerEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

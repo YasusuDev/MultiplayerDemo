@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Multiplayer",
+			"Path": "..\\Source\\Multiplayer.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MultiplayerEditor",
+			"Path": "..\\Source\\MultiplayerEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
